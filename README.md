@@ -20,3 +20,18 @@ Note that the running time of Plainifier heavily depends on the parameters speci
 
 ## Licence
 Plainifier is released under the [GNU GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html) licence.
+
+## Citation
+
+Przybyła, P. and Shardlow, M., 2020, December. Multi-Word Lexical Simplification. In Proceedings of the 28th International Conference on Computational Linguistics.
+
+@inproceedings{plainifier,
+    title = "Multi-Word Lexical Simplification",
+    author = "Przybyła, Piotr and
+              Shardlow, Matthew",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain",
+    publisher = "Association for Computational Linguistics",
+}
