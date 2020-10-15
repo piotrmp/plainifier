@@ -1,6 +1,6 @@
 # Plainifier
 
-*Plainifier* is a solution for multi-word lexical simplification, described in the article *[Multi-Word Lexical Simplification](https://www.aclweb.org/anthology/TODO.pdf)* presented at the [COLING 2020](https://coling2020.org/) conference in Barcelona.
+*Plainifier* is a solution for multi-word lexical simplification, described in the article *[Multi-Word Lexical Simplification](hhttps://github.com/piotrmp/plainifier/blob/main/Multi-Word_Lexical_Simplification_Coling2020.pdf)* presented at the [COLING 2020](https://coling2020.org/) conference in Barcelona.
 
 Plainifier uses the [TerseBERT](https://github.com/piotrmp/tersebert) language model to recursively generate replacement candidates that fit in a given context. These candidates are ranked according to the following criteria:
 * Probability, i.e. likelihood according to the language model,
