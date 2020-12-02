@@ -16,7 +16,7 @@ The code for plainifier is included in the ```plainify.py``` file, which also in
 * [fastText](https://fasttext.cc/docs/en/english-vectors.html) embeddings file (crawl-300d-2M-subword.vec),
 * Frequency table of unigrams obtained from [Google Books Ngrams](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html), available here in ```unigrams-df.tsv```.
 
-Note that the running time of Plainifier heavily depends on the parameters specified. For the meaning of the parameters and their values used in the evaluation, refer to [the paper](https://www.aclweb.org/anthology/TODO.pdf).
+Note that the running time of Plainifier heavily depends on the parameters specified. For the meaning of the parameters and their values used in the evaluation, refer to [the paper](https://www.aclweb.org/anthology/2020.coling-main.123.pdf).
 
 ## Licence
 Plainifier is released under the [GNU GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html) licence.
